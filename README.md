@@ -7,5 +7,9 @@
 - 🌱 I’m currently exploring the field of Deep Learning and NLP.
 - 👯 I’m an observer and critic who loves to express through art and occasionally through words.
 - ⏳ Talk to me about books, music, travelling and Stars.💫
-- 📫 Reach me through: [Mail](shwetamasrani19@gmail.com) and [LinkedIn](https://www.linkedin.com/in/shweta-masrani/)
+- 📫 How to Reach me: [Mail](shwetamasrani19@gmail.com) and [LinkedIn](https://www.linkedin.com/in/shweta-masrani/)
 
+<!--
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shwetamasrani" alt="shwetamasrani" /> </p>
+[![Stats](https://github-readme-stats.vercel.app/api?username=shwetamasrani&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
